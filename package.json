@@ -91,7 +91,7 @@
     "through2": "^3.0.1"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.8.0",
     "custom-event-polyfill": "^1.0.7",
     "loadjs": "^4.2.0",
     "rangetouch": "^2.0.1",
